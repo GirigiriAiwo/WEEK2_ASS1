@@ -1,0 +1,68 @@
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\bin\Debug\net8.0-windows\Calc2.exe
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\bin\Debug\net8.0-windows\Calc2.deps.json
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\bin\Debug\net8.0-windows\Calc2.runtimeconfig.json
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\bin\Debug\net8.0-windows\Calc2.dll
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\bin\Debug\net8.0-windows\Calc2.pdb
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\obj\Debug\net8.0-windows\Calc2.Form1.resources
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\obj\Debug\net8.0-windows\Calc2.Properties.Resources.resources
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\obj\Debug\net8.0-windows\Calc2.csproj.GenerateResource.cache
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\obj\Debug\net8.0-windows\Calc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\obj\Debug\net8.0-windows\Calc2.AssemblyInfoInputs.cache
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\obj\Debug\net8.0-windows\Calc2.AssemblyInfo.cs
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\obj\Debug\net8.0-windows\Calc2.csproj.CoreCompileInputs.cache
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\obj\Debug\net8.0-windows\Calc2.dll
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\obj\Debug\net8.0-windows\refint\Calc2.dll
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\obj\Debug\net8.0-windows\Calc2.pdb
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\obj\Debug\net8.0-windows\Calc2.genruntimeconfig.cache
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc2\obj\Debug\net8.0-windows\ref\Calc2.dll
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\bin\Debug\net8.0-windows\Calc2.exe
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\bin\Debug\net8.0-windows\Calc2.deps.json
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\bin\Debug\net8.0-windows\Calc2.runtimeconfig.json
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\bin\Debug\net8.0-windows\Calc2.dll
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\bin\Debug\net8.0-windows\Calc2.pdb
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\obj\Debug\net8.0-windows\Calc2.Form1.resources
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\obj\Debug\net8.0-windows\Calc2.Properties.Resources.resources
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\obj\Debug\net8.0-windows\Calc2.csproj.GenerateResource.cache
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\obj\Debug\net8.0-windows\Calc2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\obj\Debug\net8.0-windows\Calc2.AssemblyInfoInputs.cache
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\obj\Debug\net8.0-windows\Calc2.AssemblyInfo.cs
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\obj\Debug\net8.0-windows\Calc2.csproj.CoreCompileInputs.cache
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\obj\Debug\net8.0-windows\Calc2.dll
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\obj\Debug\net8.0-windows\refint\Calc2.dll
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\obj\Debug\net8.0-windows\Calc2.pdb
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\obj\Debug\net8.0-windows\Calc2.genruntimeconfig.cache
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc2\obj\Debug\net8.0-windows\ref\Calc2.dll
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\bin\Debug\net8.0-windows\Calc2.exe
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\bin\Debug\net8.0-windows\Calc2.deps.json
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\bin\Debug\net8.0-windows\Calc2.runtimeconfig.json
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\bin\Debug\net8.0-windows\Calc2.dll
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\bin\Debug\net8.0-windows\Calc2.pdb
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\obj\Debug\net8.0-windows\Calc2.Form1.resources
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\obj\Debug\net8.0-windows\Calc2.Properties.Resources.resources
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\obj\Debug\net8.0-windows\Calc2.csproj.GenerateResource.cache
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\obj\Debug\net8.0-windows\Calc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\obj\Debug\net8.0-windows\Calc2.AssemblyInfoInputs.cache
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\obj\Debug\net8.0-windows\Calc2.AssemblyInfo.cs
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\obj\Debug\net8.0-windows\Calc2.csproj.CoreCompileInputs.cache
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\obj\Debug\net8.0-windows\Calc2.dll
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\obj\Debug\net8.0-windows\refint\Calc2.dll
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\obj\Debug\net8.0-windows\Calc2.pdb
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\obj\Debug\net8.0-windows\Calc2.genruntimeconfig.cache
+C:\Users\CDU\Desktop\NAS STUFF\ABAPO\CODES\Calc3.0\Calc2\obj\Debug\net8.0-windows\ref\Calc2.dll
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\bin\Debug\net8.0-windows\Calc2.exe
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\bin\Debug\net8.0-windows\Calc2.deps.json
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\bin\Debug\net8.0-windows\Calc2.runtimeconfig.json
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\bin\Debug\net8.0-windows\Calc2.dll
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\bin\Debug\net8.0-windows\Calc2.pdb
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\obj\Debug\net8.0-windows\Calc2.Form1.resources
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\obj\Debug\net8.0-windows\Calc2.Properties.Resources.resources
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\obj\Debug\net8.0-windows\Calc2.csproj.GenerateResource.cache
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\obj\Debug\net8.0-windows\Calc2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\obj\Debug\net8.0-windows\Calc2.AssemblyInfoInputs.cache
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\obj\Debug\net8.0-windows\Calc2.AssemblyInfo.cs
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\obj\Debug\net8.0-windows\Calc2.csproj.CoreCompileInputs.cache
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\obj\Debug\net8.0-windows\Calc2.dll
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\obj\Debug\net8.0-windows\refint\Calc2.dll
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\obj\Debug\net8.0-windows\Calc2.pdb
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\obj\Debug\net8.0-windows\Calc2.genruntimeconfig.cache
+D:\CIT-U 3RD YEAR\2ND SEM\Object Oriented Programming 2\Calc4.0\Calc2\obj\Debug\net8.0-windows\ref\Calc2.dll
